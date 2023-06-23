@@ -1,0 +1,17 @@
+.roboto-font {
+    font-family: "Roboto", sans-serif;
+}
+
+.share-tech-font {
+    font-family: "Share Tech", sans-serif;
+}
+
+.hero-fire {
+    position: fixed;
+    width: 150%;
+
+    left: 60%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    opacity: 30%;
+}
